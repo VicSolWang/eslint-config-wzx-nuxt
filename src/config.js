@@ -7,9 +7,9 @@
 const baseConfig = require('eslint-config-wzx-vue');
 
 const getNuxtConfig = (isSupportTs = false) => [
-    !isSupportTs ? '@nuxtjs/eslint-config' : '@nuxtjs/eslint-config-typescript',
-    'plugin:nuxt/recommended',
-  ];
+  !isSupportTs ? '@nuxtjs/eslint-config' : '@nuxtjs/eslint-config-typescript',
+  'plugin:nuxt/recommended',
+];
 
 const handleExtendsConfig = (extendsConfig = [], isSupportTs = false) => {
   const result = [...extendsConfig];
