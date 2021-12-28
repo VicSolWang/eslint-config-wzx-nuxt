@@ -20,7 +20,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/VicSolWang/eslint-config-wzx-vue.git"
+    "url": "git+https://github.com/VicSolWang/eslint-config-wzx-nuxt.git"
   },
   "keywords": [
     "eslint",
@@ -34,9 +34,9 @@
   "author": "VICSOLWANG",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/VicSolWang/eslint-config-wzx-vue/issues"
+    "url": "https://github.com/VicSolWang/eslint-config-wzx-nuxt/issues"
   },
-  "homepage": "https://github.com/VicSolWang/eslint-config-wzx-vue#readme",
+  "homepage": "https://github.com/VicSolWang/eslint-config-wzx-nuxt#readme",
   "dependencies": {
     "@nuxtjs/eslint-config": "^8.0.0",
     "@nuxtjs/eslint-config-typescript": "^8.0.0",
