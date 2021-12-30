@@ -1,3 +1,10 @@
+## [0.1.1](https://github.com/VicSolWang/eslint-config-wzx-nuxt/compare/v0.1.0...v0.1.1) (2021-12-30)
+
+
+### Bug Fixes
+
+* update ignore config ([b0cba24](https://github.com/VicSolWang/eslint-config-wzx-nuxt/commit/b0cba243f7f714b9a57de6c131a8950e2d75601e))
+
 # [0.1.0](https://github.com/VicSolWang/eslint-config-wzx-nuxt/compare/v0.0.1...v0.1.0) (2021-12-28)
 
 
