@@ -40,7 +40,7 @@
   "dependencies": {
     "@nuxtjs/eslint-config": "^8.0.0",
     "@nuxtjs/eslint-config-typescript": "^8.0.0",
-    "eslint-config-wzx-vue": "^0.2.1",
+    "eslint-config-wzx-vue": "^0.2.2",
     "eslint-plugin-nuxt": "^3.1.0"
   },
   "peerDependencies": {
