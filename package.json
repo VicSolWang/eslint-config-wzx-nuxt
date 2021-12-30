@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-wzx-nuxt",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "The custom nuxt eslint rules based on eslint-config-wzx-vue. (Follow airbnb-base and Support Typescript Eslint)",
   "main": "index.js",
   "engines": {
