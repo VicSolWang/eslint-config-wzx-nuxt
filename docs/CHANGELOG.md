@@ -1,3 +1,11 @@
+# [0.3.0](https://github.com/VicSolWang/eslint-config-wzx-nuxt/compare/v0.2.0...v0.3.0) (2023-07-27)
+
+
+### Features
+
+* update package ([1f41700](https://github.com/VicSolWang/eslint-config-wzx-nuxt/commit/1f417002c50e5876c72e5ef75f0f5702081e1abb))
+* update README.md ([3e986c0](https://github.com/VicSolWang/eslint-config-wzx-nuxt/commit/3e986c0b44ec09b25f3b085abc2321b421496fd4))
+
 # [0.2.0](https://github.com/VicSolWang/eslint-config-wzx-nuxt/compare/v0.1.2...v0.2.0) (2022-07-10)
 
 
