@@ -1,3 +1,10 @@
+## [0.3.1](https://github.com/VicSolWang/eslint-config-wzx-nuxt/compare/v0.3.0...v0.3.1) (2023-07-28)
+
+
+### Bug Fixes
+
+* reduce typescript version ([9688f7c](https://github.com/VicSolWang/eslint-config-wzx-nuxt/commit/9688f7cfd9b08c1c616f05453bf02e708c93da44))
+
 # [0.3.0](https://github.com/VicSolWang/eslint-config-wzx-nuxt/compare/v0.2.0...v0.3.0) (2023-07-27)
 
 
