@@ -4,6 +4,6 @@
  * Email: vic.sol.wang@gmail.com
  */
 
-const config = require('./src/config');
+import config from './src/config.js';
 
-module.exports = config;
+export default config;

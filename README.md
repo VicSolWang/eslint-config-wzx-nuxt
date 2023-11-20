@@ -20,13 +20,15 @@
 
 ## :rocket: Usage
 
-Add eslint-config-wzx-nuxt to the "extends" in your `.eslintrc.* file`.
+Starting from v4.x, we will use the new flat eslint config. Add eslint-config-wzx-nuxt in your `eslint.config.js`.
 
-    {
-      "extends": "wzx-nuxt"
-    }
+    import wzxNuxt from 'eslint-config-wzx-nuxt';
 
-:bulb: Typescript eslint needs `tsconfig.json` in your project root directory. And the config will select the rules of `vue2` or `vue3` according to the vue version installed in your project.
+    export default [
+      ...wzxNuxt,
+    ]
+
+:bulb: Typescript eslint needs `tsconfig.json` in your project root directory. And the config will select the rules of `nuxt2` or `nuxt3` according to the nuxt version installed in your project.
 
 ## :lock: License
 
