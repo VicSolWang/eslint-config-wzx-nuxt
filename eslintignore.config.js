@@ -10,6 +10,7 @@ export default [
   'coverage.*',
   '.github/*',
   'node_modules/*',
+  'node_modules/fraction.js',
   '.idea/*',
   '.vscode/*',
   'target/*',
