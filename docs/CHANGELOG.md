@@ -1,3 +1,10 @@
+## [0.4.1](https://github.com/VicSolWang/eslint-config-wzx-nuxt/compare/v0.4.0...v0.4.1) (2023-11-21)
+
+
+### Bug Fixes
+
+* modify prettier scripts ([1729282](https://github.com/VicSolWang/eslint-config-wzx-nuxt/commit/1729282dbab67909015b638dd5a3a19608b7c692))
+
 # [0.4.0](https://github.com/VicSolWang/eslint-config-wzx-nuxt/compare/v0.3.1...v0.4.0) (2023-11-21)
 
 
