@@ -25,8 +25,7 @@ const getNuxtConfigByVersion = async () => {
   let overrides = nuxt2Config.overrides || [];
   let rulesTs = nuxt2ConfigTs.rules || {};
   try {
-    config.log(11111111, 'test');
-    const { createNuxt } = await import('nuxt');
+    const { createNuxt } = (await import('nuxt')) || {};
     if (createNuxt) {
       rules = {};
       overrides = (nuxt3Config.overrides || []).slice(1);
