@@ -14,10 +14,10 @@
     "node": ">=16"
   },
   "scripts": {
-    "lint:prettier": "prettier --check **/*.{vue,js,json}",
+    "lint:prettier": "prettier --check **/*.{vue,js,ts,json}",
     "lint:eslint": "eslint --no-error-on-unmatched-pattern **/*.{vue,js,ts}",
     "lint": "npm run lint:prettier && npm run lint:eslint",
-    "lintfix": "prettier --write --list-different **/*.{vue,js,json} && npm run lint:eslint -- --fix",
+    "lintfix": "prettier --write --list-different **/*.{vue,js,ts,json} && npm run lint:eslint -- --fix",
     "test": "npm run lint && c8 ava",
     "cover:report": "c8 report --reporter=text-lcov > coverage.lcov",
     "husky:pre-commit": "husky add .husky/pre-commit \"npx lint-staged --config=lint-staged.config.js\"",
