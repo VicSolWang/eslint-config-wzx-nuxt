@@ -20,7 +20,7 @@
 
 ## :rocket: Usage
 
-Starting from v4.x, we will use the new flat eslint config. Add eslint-config-wzx-nuxt in your `eslint.config.js`.
+Starting from v0.4.x, we will use the new flat eslint config. Add eslint-config-wzx-nuxt in your `eslint.config.js`.
 
     import wzxNuxt from 'eslint-config-wzx-nuxt';
 
